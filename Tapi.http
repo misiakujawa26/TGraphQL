@@ -1,0 +1,6 @@
+@Tapi_HostAddress = http://localhost:5096
+
+GET {{Tapi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
